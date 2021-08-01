@@ -1,0 +1,12 @@
+use vk;
+select * from users;
+select * from profiles;
+select * from messages;
+select * from friend_requests;
+select * from communities;
+select * from users_communities;
+select * from media_types;
+select * from media;
+select * from likes;
+select * from photo_albums;
+select * from photos;
