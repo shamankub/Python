@@ -1,0 +1,4 @@
+MSET hand.conner@example.com McGlynn salvatore.kozey@example.com White shyann52@example.org Paucek theresa.ziemann@example.org Kutch
+MSET McGlynn hand.conner@example.com White salvatore.kozey@example.com Paucek shyann52@example.org Kutch theresa.ziemann@example.org
+GET Paucek
+GET salvatore.kozey@example.com
